@@ -39,7 +39,7 @@ LIBS:L298N
 LIBS:Peter-bckup
 LIBS:Peters
 LIBS:WS2812B
-LIBS:pro-mini-cache
+LIBS:discharger-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
