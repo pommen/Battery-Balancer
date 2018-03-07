@@ -31,14 +31,149 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:3-pin-boostconv
-LIBS:34063
-LIBS:Arduino
-LIBS:bluepill_breakouts
-LIBS:L298N
-LIBS:Peter-bckup
+LIBS:dk_Addressable-Specialty
+LIBS:dk_Alarms-Buzzers-and-Sirens
+LIBS:dk_Automotive-Relays
+LIBS:dk_Balun
+LIBS:dk_Barrel-Audio-Connectors
+LIBS:dk_Battery-Holders-Clips-Contacts
+LIBS:dk_Clock-Timing-Clock-Generators-PLLs-Frequency-Synthesizers
+LIBS:dk_Clock-Timing-Programmable-Timers-and-Oscillators
+LIBS:dk_Clock-Timing-Real-Time-Clocks
+LIBS:dk_Coaxial-Connectors-RF
+LIBS:dk_Current-Transducers
+LIBS:dk_Data-Acquisition-ADCs-DACs-Special-Purpose
+LIBS:dk_Data-Acquisition-Analog-to-Digital-Converters-ADC
+LIBS:dk_Data-Acquisition-Digital-Potentiometers
+LIBS:dk_Data-Acquisition-Digital-to-Analog-Converters-DAC
+LIBS:dk_Data-Acquisition-Touch-Screen-Controllers
+LIBS:dk_DC-DC-Converters
+LIBS:dk_Digital-Isolators
+LIBS:dk_Diodes-Bridge-Rectifiers
+LIBS:dk_Diodes-Rectifiers-Arrays
+LIBS:dk_Diodes-Rectifiers-Single
+LIBS:dk_Diodes-Zener-Single
+LIBS:dk_Display-Modules-LED-Character-and-Numeric
+LIBS:dk_D-Sub-Connectors
+LIBS:dk_Embedded-Microcontrollers
+LIBS:dk_Encoders
+LIBS:dk_Evaluation-Boards-Sensors
+LIBS:dk_Ferrite-Beads-and-Chips
+LIBS:dk_Fixed-Inductors
+LIBS:dk_Fuses
+LIBS:dk_Gas-Sensors
+LIBS:dk_Humidity-Moisture-Sensors
+LIBS:dk_Image-Sensors-Camera
+LIBS:dk_Infrared-UV-Visible-Emitters
+LIBS:dk_Inrush-Current-Limiters-ICL
+LIBS:dk_Interface-Analog-Switches-Multiplexers-Demultiplexers
+LIBS:dk_Interface-Analog-Switches-Special-Purpose
+LIBS:dk_Interface-Controllers
+LIBS:dk_Interface-Drivers-Receivers-Transceivers
+LIBS:dk_Interface-I-O-Expanders
+LIBS:dk_Interface-Modules
+LIBS:dk_Interface-Sensor-and-Detector-Interfaces
+LIBS:dk_Interface-Sensor-Capacitive-Touch
+LIBS:dk_Interface-Specialized
+LIBS:dk_LED-Indication-Discrete
+LIBS:dk_LEDs-Circuit-Board-Indicators-Arrays-Light-Bars-Bar-Graphs
+LIBS:dk_Linear-Amplifiers-Audio
+LIBS:dk_Linear-Amplifiers-Instrumentation-OP-Amps-Buffer-Amps
+LIBS:dk_Linear-Comparators
+LIBS:dk_Logic-Buffers-Drivers-Receivers-Transceivers
+LIBS:dk_Logic-Flip-Flops
+LIBS:dk_Logic-Gates-and-Inverters
+LIBS:dk_Logic-Multivibrators
+LIBS:dk_Logic-Shift-Registers
+LIBS:dk_Logic-Signal-Switches-Multiplexers-Decoders
+LIBS:dk_Logic-Translators-Level-Shifters
+LIBS:dk_Magnetic-Sensors-Compass-Magnetic-Field-Modules
+LIBS:dk_Magnetic-Sensors-Linear-Compass-ICs
+LIBS:dk_Magnetic-Sensors-Switches-Solid-State
+LIBS:dk_Memory
+LIBS:dk_Memory-Connectors-PC-Card-Sockets
+LIBS:dk_Microphones
+LIBS:dk_Modular-Connectors-Jacks
+LIBS:dk_Modular-Connectors-Jacks-With-Magnetics
+LIBS:dk_Motion-Sensors-Accelerometers
+LIBS:dk_Motion-Sensors-IMUs-Inertial-Measurement-Units
+LIBS:dk_Motion-Sensors-Tilt-Switches
+LIBS:dk_Navigation-Switches-Joystick
+LIBS:dk_Optical-Sensors-Ambient-Light-IR-UV-Sensors
+LIBS:dk_Optical-Sensors-Photo-Detectors-Remote-Receiver
+LIBS:dk_Optical-Sensors-Photodiodes
+LIBS:dk_Optical-Sensors-Phototransistors
+LIBS:dk_Optical-Sensors-Reflective-Analog-Output
+LIBS:dk_Optoisolators-Logic-Output
+LIBS:dk_Optoisolators-Transistor-Photovoltaic-Output
+LIBS:dk_Optoisolators-Triac-SCR-Output
+LIBS:dk_Oscillators
+LIBS:dk_PMIC-AC-DC-Converters-Offline-Switchers
+LIBS:dk_PMIC-Battery-Chargers
+LIBS:dk_PMIC-Battery-Management
+LIBS:dk_PMIC-Current-Regulation-Management
+LIBS:dk_PMIC-Full-Half-Bridge-Drivers
+LIBS:dk_PMIC-Gate-Drivers
+LIBS:dk_PMIC-LED-Drivers
+LIBS:dk_PMIC-Motor-Drivers-Controllers
+LIBS:dk_PMIC-OR-Controllers-Ideal-Diodes
+LIBS:dk_PMIC-Power-Distribution-Switches-Load-Drivers
+LIBS:dk_PMIC-Power-Management-Specialized
+LIBS:dk_PMIC-RMS-to-DC-Converters
+LIBS:dk_PMIC-Supervisors
+LIBS:dk_PMIC-Thermal-Management
+LIBS:dk_PMIC-V-F-and-F-V-Converters
+LIBS:dk_PMIC-Voltage-Reference
+LIBS:dk_PMIC-Voltage-Regulators-DC-DC-Switching-Controllers
+LIBS:dk_PMIC-Voltage-Regulators-DC-DC-Switching-Regulators
+LIBS:dk_PMIC-Voltage-Regulators-Linear
+LIBS:dk_PMIC-Voltage-Regulators-Special-Purpose
+LIBS:dk_Power-Relays-Over-2-Amps
+LIBS:dk_Pressure-Sensors-Transducers
+LIBS:dk_Programmable-Oscillators
+LIBS:dk_Pushbutton-Switches
+LIBS:dk_Rectangular-Connectors-Headers-Male-Pins
+LIBS:dk_Reed-Relays
+LIBS:dk_Resistor-Networks-Arrays
+LIBS:dk_RF-Amplifiers
+LIBS:dk_RF-Antennas
+LIBS:dk_RF-Demodulators
+LIBS:dk_RF-Detectors
+LIBS:dk_RF-Evaluation-and-Development-Kits-Boards
+LIBS:dk_RFID-RF-Access-Monitoring-ICs
+LIBS:dk_RF-Receivers
+LIBS:dk_RF-Switches
+LIBS:dk_RF-Transceiver-ICs
+LIBS:dk_RF-Transceiver-Modules
+LIBS:dk_RF-Transmitters
+LIBS:dk_Rotary-Potentiometers-Rheostats
+LIBS:dk_Sensors-Transducers_Accessories
+LIBS:dk_Signal-Relays-Up-to-2-Amps
+LIBS:dk_Slide-Switches
+LIBS:dk_Solid-State-Relays
+LIBS:dk_Specialized-ICs
+LIBS:dk_Specialized-Sensors
+LIBS:dk_Surge-Suppression-ICs
+LIBS:dk_Tactile-Switches
+LIBS:dk_Temperature-Sensors-Analog-and-Digital-Output
+LIBS:dk_Thermal-Cutoffs-Thermal-Fuses
+LIBS:dk_Thyristors-DIACs-SIDACs
+LIBS:dk_Thyristors-SCRs
+LIBS:dk_Thyristors-TRIACs
+LIBS:dk_Toggle-Switches
+LIBS:dk_Transistors-Bipolar-BJT-Arrays
+LIBS:dk_Transistors-Bipolar-BJT-RF
+LIBS:dk_Transistors-Bipolar-BJT-Single
+LIBS:dk_Transistors-Bipolar-BJT-Single-Pre-Biased
+LIBS:dk_Transistors-FETs-MOSFETs-Arrays
+LIBS:dk_Transistors-FETs-MOSFETs-RF
+LIBS:dk_Transistors-FETs-MOSFETs-Single
+LIBS:dk_Transistors-JFETs
+LIBS:dk_Trimmer-Potentiometers
+LIBS:dk_TVS-Diodes
+LIBS:dk_TVS-Mixed-Technology
+LIBS:dk_USB-DVI-HDMI-Connectors
 LIBS:Peters
-LIBS:WS2812B
 LIBS:discharger-cache
 EELAYER 25 0
 EELAYER END
@@ -55,10 +190,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ATMEGA328P-AU-Arduino U14
+L ATMEGA328P-AU-Arduino U9
 U 1 1 5A97113A
 P 5000 2200
-F 0 "U14" H 5050 3567 50  0000 C CNN
+F 0 "U9" H 5050 3567 50  0000 C CNN
 F 1 "ATMEGA328P-AU-Arduino" H 5050 3476 50  0000 C CNN
 F 2 "Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm" H 5150 3700 50  0001 C CIN
 F 3 "" H 5000 2200 50  0001 C CNN
@@ -77,10 +212,10 @@ F 3 "" H 6850 1800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C22
+L C C19
 U 1 1 5A97113C
 P 3500 1900
-F 0 "C22" H 3615 1946 50  0000 L CNN
+F 0 "C19" H 3615 1946 50  0000 L CNN
 F 1 "0,1U" H 3615 1855 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3538 1750 50  0001 C CNN
 F 3 "" H 3500 1900 50  0001 C CNN
@@ -88,10 +223,10 @@ F 3 "" H 3500 1900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR050
+L GND #PWR040
 U 1 1 5A97113D
 P 3500 2100
-F 0 "#PWR050" H 3500 1850 50  0001 C CNN
+F 0 "#PWR040" H 3500 1850 50  0001 C CNN
 F 1 "GND" H 3505 1927 50  0000 C CNN
 F 2 "" H 3500 2100 50  0001 C CNN
 F 3 "" H 3500 2100 50  0001 C CNN
@@ -99,10 +234,10 @@ F 3 "" H 3500 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR051
+L GND #PWR041
 U 1 1 5A97113E
 P 4050 3550
-F 0 "#PWR051" H 4050 3300 50  0001 C CNN
+F 0 "#PWR041" H 4050 3300 50  0001 C CNN
 F 1 "GND" H 4055 3377 50  0000 C CNN
 F 2 "" H 4050 3550 50  0001 C CNN
 F 3 "" H 4050 3550 50  0001 C CNN
@@ -110,10 +245,10 @@ F 3 "" H 4050 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C20
+L C C17
 U 1 1 5A97113F
 P 2100 1400
-F 0 "C20" V 1848 1400 50  0000 C CNN
+F 0 "C17" V 1848 1400 50  0000 C CNN
 F 1 "0,1u" V 1939 1400 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2138 1250 50  0001 C CNN
 F 3 "" H 2100 1400 50  0001 C CNN
@@ -147,10 +282,10 @@ F 3 "" H 1600 1150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR052
+L VCC #PWR042
 U 1 1 5A971142
 P 1600 950
-F 0 "#PWR052" H 1600 800 50  0001 C CNN
+F 0 "#PWR042" H 1600 800 50  0001 C CNN
 F 1 "VCC" H 1617 1123 50  0000 C CNN
 F 2 "" H 1600 950 50  0001 C CNN
 F 3 "" H 1600 950 50  0001 C CNN
@@ -158,10 +293,10 @@ F 3 "" H 1600 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR053
+L GND #PWR043
 U 1 1 5A971143
 P 1600 2250
-F 0 "#PWR053" H 1600 2000 50  0001 C CNN
+F 0 "#PWR043" H 1600 2000 50  0001 C CNN
 F 1 "GND" H 1850 2200 50  0000 C CNN
 F 2 "" H 1600 2250 50  0001 C CNN
 F 3 "" H 1600 2250 50  0001 C CNN
@@ -169,10 +304,10 @@ F 3 "" H 1600 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR054
+L GND #PWR044
 U 1 1 5A971144
 P 1250 3100
-F 0 "#PWR054" H 1250 2850 50  0001 C CNN
+F 0 "#PWR044" H 1250 2850 50  0001 C CNN
 F 1 "GND" H 1200 3250 50  0000 C CNN
 F 2 "" H 1250 3100 50  0001 C CNN
 F 3 "" H 1250 3100 50  0001 C CNN
@@ -180,10 +315,10 @@ F 3 "" H 1250 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR055
+L VCC #PWR045
 U 1 1 5A971145
 P 1350 3250
-F 0 "#PWR055" H 1350 3100 50  0001 C CNN
+F 0 "#PWR045" H 1350 3100 50  0001 C CNN
 F 1 "VCC" H 1367 3423 50  0000 C CNN
 F 2 "" H 1350 3250 50  0001 C CNN
 F 3 "" H 1350 3250 50  0001 C CNN
@@ -199,10 +334,10 @@ RXI
 Text GLabel 6000 2800 2    60   Input ~ 0
 TX0
 $Comp
-L VCC #PWR056
+L VCC #PWR046
 U 1 1 5A971146
 P 4000 900
-F 0 "#PWR056" H 4000 750 50  0001 C CNN
+F 0 "#PWR046" H 4000 750 50  0001 C CNN
 F 1 "VCC" H 4017 1073 50  0000 C CNN
 F 2 "" H 4000 900 50  0001 C CNN
 F 3 "" H 4000 900 50  0001 C CNN
@@ -233,10 +368,10 @@ MISO
 Text GLabel 1500 4200 0    60   Input ~ 0
 SCK
 $Comp
-L C C24
+L C C20
 U 1 1 5A971148
 P 7000 1950
-F 0 "C24" V 7150 1950 50  0000 C CNN
+F 0 "C20" V 7150 1950 50  0000 C CNN
 F 1 "22pf" V 7250 1950 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7038 1800 50  0001 C CNN
 F 3 "" H 7000 1950 50  0001 C CNN
@@ -244,10 +379,10 @@ F 3 "" H 7000 1950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L C C23
+L C C18
 U 1 1 5A971149
 P 7000 1650
-F 0 "C23" V 6750 1650 50  0000 C CNN
+F 0 "C18" V 6750 1650 50  0000 C CNN
 F 1 "22pf" V 6850 1650 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7038 1500 50  0001 C CNN
 F 3 "" H 7000 1650 50  0001 C CNN
@@ -255,10 +390,10 @@ F 3 "" H 7000 1650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR057
+L GND #PWR047
 U 1 1 5A97114A
 P 7150 2100
-F 0 "#PWR057" H 7150 1850 50  0001 C CNN
+F 0 "#PWR047" H 7150 1850 50  0001 C CNN
 F 1 "GND" H 7150 1950 50  0000 C CNN
 F 2 "" H 7150 2100 50  0001 C CNN
 F 3 "" H 7150 2100 50  0001 C CNN
@@ -266,10 +401,10 @@ F 3 "" H 7150 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR058
+L VCC #PWR048
 U 1 1 5A97114B
 P 2350 4100
-F 0 "#PWR058" H 2350 3950 50  0001 C CNN
+F 0 "#PWR048" H 2350 3950 50  0001 C CNN
 F 1 "VCC" H 2367 4273 50  0000 C CNN
 F 2 "" H 2350 4100 50  0001 C CNN
 F 3 "" H 2350 4100 50  0001 C CNN
@@ -277,10 +412,10 @@ F 3 "" H 2350 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR059
+L GND #PWR049
 U 1 1 5A97114C
 P 2350 4300
-F 0 "#PWR059" H 2350 4050 50  0001 C CNN
+F 0 "#PWR049" H 2350 4050 50  0001 C CNN
 F 1 "GND" H 2300 4450 50  0000 C CNN
 F 2 "" H 2350 4300 50  0001 C CNN
 F 3 "" H 2350 4300 50  0001 C CNN
@@ -288,10 +423,10 @@ F 3 "" H 2350 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR060
+L VCC #PWR050
 U 1 1 5A97114D
 P 3150 950
-F 0 "#PWR060" H 3150 800 50  0001 C CNN
+F 0 "#PWR050" H 3150 800 50  0001 C CNN
 F 1 "VCC" H 3167 1123 50  0000 C CNN
 F 2 "" H 3150 950 50  0001 C CNN
 F 3 "" H 3150 950 50  0001 C CNN
@@ -299,10 +434,10 @@ F 3 "" H 3150 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR061
+L GND #PWR051
 U 1 1 5A97114E
 P 3150 1250
-F 0 "#PWR061" H 3150 1000 50  0001 C CNN
+F 0 "#PWR051" H 3150 1000 50  0001 C CNN
 F 1 "GND" H 3155 1077 50  0000 C CNN
 F 2 "" H 3150 1250 50  0001 C CNN
 F 3 "" H 3150 1250 50  0001 C CNN
@@ -321,10 +456,10 @@ F 3 "" H 3600 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR062
+L VCC #PWR052
 U 1 1 5A971150
 P 3600 950
-F 0 "#PWR062" H 3600 800 50  0001 C CNN
+F 0 "#PWR052" H 3600 800 50  0001 C CNN
 F 1 "VCC" H 3617 1123 50  0000 C CNN
 F 2 "" H 3600 950 50  0001 C CNN
 F 3 "" H 3600 950 50  0001 C CNN
@@ -332,10 +467,10 @@ F 3 "" H 3600 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR063
+L GND #PWR053
 U 1 1 5A971151
 P 3600 1250
-F 0 "#PWR063" H 3600 1000 50  0001 C CNN
+F 0 "#PWR053" H 3600 1000 50  0001 C CNN
 F 1 "GND" H 3605 1077 50  0000 C CNN
 F 2 "" H 3600 1250 50  0001 C CNN
 F 3 "" H 3600 1250 50  0001 C CNN
@@ -450,10 +585,10 @@ RST
 Text GLabel 1500 4300 0    60   Input ~ 0
 reset_in
 $Comp
-L CP C21
+L CP C16
 U 1 1 5A971153
 P 3150 1100
-F 0 "C21" H 3268 1146 50  0000 L CNN
+F 0 "C16" H 3268 1146 50  0000 L CNN
 F 1 "10uF" H 3268 1055 50  0000 L CNN
 F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand" H 3188 950 50  0001 C CNN
 F 3 "" H 3150 1100 50  0001 C CNN
@@ -487,10 +622,10 @@ F 3 "" H 8150 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR064
+L VCC #PWR054
 U 1 1 5A972C9F
 P 7900 1550
-F 0 "#PWR064" H 7900 1400 50  0001 C CNN
+F 0 "#PWR054" H 7900 1400 50  0001 C CNN
 F 1 "VCC" H 7917 1723 50  0000 C CNN
 F 2 "" H 7900 1550 50  0001 C CNN
 F 3 "" H 7900 1550 50  0001 C CNN
@@ -498,10 +633,10 @@ F 3 "" H 7900 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR065
+L VCC #PWR055
 U 1 1 5A972CD4
 P 8150 1550
-F 0 "#PWR065" H 8150 1400 50  0001 C CNN
+F 0 "#PWR055" H 8150 1400 50  0001 C CNN
 F 1 "VCC" H 8167 1723 50  0000 C CNN
 F 2 "" H 8150 1550 50  0001 C CNN
 F 3 "" H 8150 1550 50  0001 C CNN
@@ -517,10 +652,10 @@ Wire Wire Line
 Wire Wire Line
 	8150 1900 8150 2000
 $Comp
-L Conn_01x04 J1
+L Conn_01x04 J2
 U 1 1 5A97BACB
 P 9000 1050
-F 0 "J1" H 9000 1250 50  0000 C CNN
+F 0 "J2" H 9000 1250 50  0000 C CNN
 F 1 "OLED" H 9000 750 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm_SMD_Pin1Left" H 9000 1050 50  0001 C CNN
 F 3 "" H 9000 1050 50  0001 C CNN
@@ -532,10 +667,10 @@ SDA
 Text GLabel 8800 1050 0    60   Input ~ 0
 SCL
 $Comp
-L VCC #PWR066
+L VCC #PWR056
 U 1 1 5A97BF05
 P 8800 1150
-F 0 "#PWR066" H 8800 1000 50  0001 C CNN
+F 0 "#PWR056" H 8800 1000 50  0001 C CNN
 F 1 "VCC" H 8800 1300 50  0000 C CNN
 F 2 "" H 8800 1150 50  0001 C CNN
 F 3 "" H 8800 1150 50  0001 C CNN
@@ -543,10 +678,10 @@ F 3 "" H 8800 1150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GND #PWR067
+L GND #PWR057
 U 1 1 5A97BF37
 P 8800 1250
-F 0 "#PWR067" H 8800 1000 50  0001 C CNN
+F 0 "#PWR057" H 8800 1000 50  0001 C CNN
 F 1 "GND" H 8800 1100 50  0000 C CNN
 F 2 "" H 8800 1250 50  0001 C CNN
 F 3 "" H 8800 1250 50  0001 C CNN
@@ -565,10 +700,10 @@ F 3 "" H 6200 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R18
+L R R12
 U 1 1 5A97E49F
 P 5750 5450
-F 0 "R18" V 5830 5450 50  0000 C CNN
+F 0 "R12" V 5830 5450 50  0000 C CNN
 F 1 "R" V 5750 5450 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5680 5450 50  0001 C CNN
 F 3 "" H 5750 5450 50  0001 C CNN
@@ -588,10 +723,10 @@ Wire Wire Line
 Wire Wire Line
 	5600 5650 5500 5650
 $Comp
-L VCC #PWR068
+L VCC #PWR058
 U 1 1 5A97E4AB
 P 6550 5650
-F 0 "#PWR068" H 6550 5500 50  0001 C CNN
+F 0 "#PWR058" H 6550 5500 50  0001 C CNN
 F 1 "VCC" H 6550 5800 50  0000 C CNN
 F 2 "" H 6550 5650 50  0001 C CNN
 F 3 "" H 6550 5650 50  0001 C CNN
@@ -607,10 +742,10 @@ Led1G
 Text GLabel 5500 5850 0    60   Input ~ 0
 Led1B
 $Comp
-L R R19
+L R R15
 U 1 1 5A97ED0C
 P 5750 5650
-F 0 "R19" V 5830 5650 50  0000 C CNN
+F 0 "R15" V 5830 5650 50  0000 C CNN
 F 1 "R" V 5750 5650 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5680 5650 50  0001 C CNN
 F 3 "" H 5750 5650 50  0001 C CNN
@@ -618,10 +753,10 @@ F 3 "" H 5750 5650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R20
+L R R18
 U 1 1 5A97ED5A
 P 5750 5850
-F 0 "R20" V 5830 5850 50  0000 C CNN
+F 0 "R18" V 5830 5850 50  0000 C CNN
 F 1 "R" V 5750 5850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5680 5850 50  0001 C CNN
 F 3 "" H 5750 5850 50  0001 C CNN
@@ -640,10 +775,10 @@ F 3 "" H 7900 5650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R21
+L R R13
 U 1 1 5A97EEFC
 P 7450 5500
-F 0 "R21" V 7530 5500 50  0000 C CNN
+F 0 "R13" V 7530 5500 50  0000 C CNN
 F 1 "R" V 7450 5500 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 7380 5500 50  0001 C CNN
 F 3 "" H 7450 5500 50  0001 C CNN
@@ -663,10 +798,10 @@ Wire Wire Line
 Wire Wire Line
 	7300 5700 7200 5700
 $Comp
-L VCC #PWR069
+L VCC #PWR059
 U 1 1 5A97EF08
 P 8250 5700
-F 0 "#PWR069" H 8250 5550 50  0001 C CNN
+F 0 "#PWR059" H 8250 5550 50  0001 C CNN
 F 1 "VCC" H 8250 5850 50  0000 C CNN
 F 2 "" H 8250 5700 50  0001 C CNN
 F 3 "" H 8250 5700 50  0001 C CNN
@@ -682,10 +817,10 @@ Led2G
 Text GLabel 7200 5900 0    60   Input ~ 0
 Led2B
 $Comp
-L R R22
+L R R16
 U 1 1 5A97EF12
 P 7450 5700
-F 0 "R22" V 7530 5700 50  0000 C CNN
+F 0 "R16" V 7530 5700 50  0000 C CNN
 F 1 "R" V 7450 5700 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 7380 5700 50  0001 C CNN
 F 3 "" H 7450 5700 50  0001 C CNN
@@ -693,10 +828,10 @@ F 3 "" H 7450 5700 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R23
+L R R19
 U 1 1 5A97EF18
 P 7450 5900
-F 0 "R23" V 7530 5900 50  0000 C CNN
+F 0 "R19" V 7530 5900 50  0000 C CNN
 F 1 "R" V 7450 5900 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 7380 5900 50  0001 C CNN
 F 3 "" H 7450 5900 50  0001 C CNN
@@ -715,10 +850,10 @@ F 3 "" H 9450 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R24
+L R R14
 U 1 1 5A97EFA6
 P 9000 5550
-F 0 "R24" V 9080 5550 50  0000 C CNN
+F 0 "R14" V 9080 5550 50  0000 C CNN
 F 1 "R" V 9000 5550 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8930 5550 50  0001 C CNN
 F 3 "" H 9000 5550 50  0001 C CNN
@@ -738,10 +873,10 @@ Wire Wire Line
 Wire Wire Line
 	8850 5750 8750 5750
 $Comp
-L VCC #PWR070
+L VCC #PWR060
 U 1 1 5A97EFB2
 P 9800 5750
-F 0 "#PWR070" H 9800 5600 50  0001 C CNN
+F 0 "#PWR060" H 9800 5600 50  0001 C CNN
 F 1 "VCC" H 9800 5900 50  0000 C CNN
 F 2 "" H 9800 5750 50  0001 C CNN
 F 3 "" H 9800 5750 50  0001 C CNN
@@ -757,10 +892,10 @@ Led3G
 Text GLabel 8750 5950 0    60   Input ~ 0
 Led3B
 $Comp
-L R R25
+L R R17
 U 1 1 5A97EFBC
 P 9000 5750
-F 0 "R25" V 9080 5750 50  0000 C CNN
+F 0 "R17" V 9080 5750 50  0000 C CNN
 F 1 "R" V 9000 5750 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8930 5750 50  0001 C CNN
 F 3 "" H 9000 5750 50  0001 C CNN
@@ -768,10 +903,10 @@ F 3 "" H 9000 5750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R26
+L R R20
 U 1 1 5A97EFC2
 P 9000 5950
-F 0 "R26" V 9080 5950 50  0000 C CNN
+F 0 "R20" V 9080 5950 50  0000 C CNN
 F 1 "R" V 9000 5950 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8930 5950 50  0001 C CNN
 F 3 "" H 9000 5950 50  0001 C CNN
@@ -797,10 +932,10 @@ Led3G
 Text GLabel 6000 3100 2    60   Input ~ 0
 Led3B
 $Comp
-L MCP4728 U2
+L MCP4728 U10
 U 1 1 5A9E4E15
 P 9250 2900
-F 0 "U2" H 8750 3150 50  0000 L CNN
+F 0 "U10" H 8750 3150 50  0000 L CNN
 F 1 "MCP4728" H 9750 3150 50  0000 R CNN
 F 2 "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm" H 9250 2300 50  0001 C CNN
 F 3 "" H 9250 3150 50  0001 C CNN
@@ -808,10 +943,10 @@ F 3 "" H 9250 3150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR071
+L VCC #PWR061
 U 1 1 5A9E4F9A
 P 9250 2500
-F 0 "#PWR071" H 9250 2350 50  0001 C CNN
+F 0 "#PWR061" H 9250 2350 50  0001 C CNN
 F 1 "VCC" H 9267 2673 50  0000 C CNN
 F 2 "" H 9250 2500 50  0001 C CNN
 F 3 "" H 9250 2500 50  0001 C CNN
@@ -819,10 +954,10 @@ F 3 "" H 9250 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR072
+L GND #PWR062
 U 1 1 5A9E4FF9
 P 9250 3400
-F 0 "#PWR072" H 9250 3150 50  0001 C CNN
+F 0 "#PWR062" H 9250 3150 50  0001 C CNN
 F 1 "GND" H 9250 3250 50  0000 C CNN
 F 2 "" H 9250 3400 50  0001 C CNN
 F 3 "" H 9250 3400 50  0001 C CNN
@@ -841,10 +976,10 @@ F 3 "" H 9450 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L VCC #PWR073
+L VCC #PWR063
 U 1 1 5A9E50AD
 P 9450 3500
-F 0 "#PWR073" H 9450 3350 50  0001 C CNN
+F 0 "#PWR063" H 9450 3350 50  0001 C CNN
 F 1 "VCC" H 9467 3673 50  0000 C CNN
 F 2 "" H 9450 3500 50  0001 C CNN
 F 3 "" H 9450 3500 50  0001 C CNN
@@ -852,10 +987,10 @@ F 3 "" H 9450 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR074
+L GND #PWR064
 U 1 1 5A9E50B3
 P 9450 3800
-F 0 "#PWR074" H 9450 3550 50  0001 C CNN
+F 0 "#PWR064" H 9450 3550 50  0001 C CNN
 F 1 "GND" H 9455 3627 50  0000 C CNN
 F 2 "" H 9450 3800 50  0001 C CNN
 F 3 "" H 9450 3800 50  0001 C CNN
@@ -871,10 +1006,10 @@ SCL
 Text GLabel 8650 2900 0    60   Input ~ 0
 SDA
 $Comp
-L GND #PWR075
+L GND #PWR065
 U 1 1 5A9E5343
 P 8500 3100
-F 0 "#PWR075" H 8500 2850 50  0001 C CNN
+F 0 "#PWR065" H 8500 2850 50  0001 C CNN
 F 1 "GND" H 8500 2950 50  0000 C CNN
 F 2 "" H 8500 3100 50  0001 C CNN
 F 3 "" H 8500 3100 50  0001 C CNN
