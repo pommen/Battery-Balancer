@@ -31,6 +31,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:3-pin-boostconv
+LIBS:34063
+LIBS:Arduino
+LIBS:bluepill_breakouts
+LIBS:L298N
+LIBS:Peter-bckup
+LIBS:Peters
+LIBS:WS2812B
 LIBS:discharger-cache
 EELAYER 25 0
 EELAYER END

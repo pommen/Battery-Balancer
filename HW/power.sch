@@ -31,6 +31,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:3-pin-boostconv
+LIBS:34063
+LIBS:Arduino
+LIBS:bluepill_breakouts
+LIBS:L298N
+LIBS:Peter-bckup
+LIBS:Peters
+LIBS:WS2812B
 LIBS:discharger-cache
 EELAYER 25 0
 EELAYER END
@@ -257,6 +265,17 @@ F 1 "GND" H 6700 3300 50  0000 C CNN
 F 2 "" H 6700 3450 50  0001 C CNN
 F 3 "" H 6700 3450 50  0001 C CNN
 	1    6700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM2937 U?
+U 1 1 5A9F8E30
+P 6650 2900
+F 0 "U?" H 6500 3000 60  0000 C CNN
+F 1 "LM2937" H 6550 2900 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-223-3_TabPin2" H 6400 2900 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2937.pdf" H 6500 3000 60  0001 C CNN
+	1    6650 2900
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
