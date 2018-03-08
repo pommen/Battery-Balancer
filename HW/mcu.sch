@@ -915,21 +915,21 @@ F 3 "" H 9000 5950 50  0001 C CNN
 $EndComp
 Text GLabel 6000 3200 2    60   Input ~ 0
 Led1R
-Text GLabel 6000 3300 2    60   Input ~ 0
-Led1G
 Text GLabel 6000 3400 2    60   Input ~ 0
+Led1G
+Text GLabel 6000 3300 2    60   Input ~ 0
 Led1B
 Text GLabel 6000 1100 2    60   Input ~ 0
 Led2R
-Text GLabel 6000 1200 2    60   Input ~ 0
-Led2G
 Text GLabel 6000 1300 2    60   Input ~ 0
+Led2G
+Text GLabel 6000 1200 2    60   Input ~ 0
 Led2B
 Text GLabel 6000 2900 2    60   Input ~ 0
 Led3R
-Text GLabel 6000 3000 2    60   Input ~ 0
-Led3G
 Text GLabel 6000 3100 2    60   Input ~ 0
+Led3G
+Text GLabel 6000 3000 2    60   Input ~ 0
 Led3B
 $Comp
 L MCP4728 U10
