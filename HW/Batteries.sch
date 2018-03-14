@@ -382,8 +382,6 @@ F 3 "" H 1600 5100 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	2300 5000 2450 5000
-Wire Wire Line
 	3200 5300 3450 5300
 Wire Wire Line
 	3450 5300 3450 5350
@@ -407,10 +405,6 @@ F 3 "One Cell Lithium-ion/Polymer Battery Protection IC" H 2600 5700 60  0001 C 
 $EndComp
 Connection ~ 1900 5200
 Connection ~ 2350 5200
-Wire Wire Line
-	2350 5000 2400 5000
-Connection ~ 2400 5000
-Connection ~ 2350 5000
 Wire Wire Line
 	1900 5100 1800 5100
 Wire Wire Line
@@ -569,4 +563,7 @@ F 3 "" H 3450 5900 50  0001 C CNN
 	1    3450 5900
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2300 5000 2450 5000
+Connection ~ 2350 5000
 $EndSCHEMATC
