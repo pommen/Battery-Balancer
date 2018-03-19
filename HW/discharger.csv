@@ -1,0 +1,61 @@
+Title,
+Revision,
+Date,
+Generated,03/10/18 15:54:47
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,85
+Total Unique Parts,40
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,
+C1 ,1,2uF,Capacitors_SMD:C_0805_HandSoldering,
+C2 C16 ,2,10uF,Capacitors_Tantalum_SMD:CP_Tantalum_Case-C_EIA-6032-28_Hand,
+C3 ,1,10uF,Capacitors_SMD:C_0805_HandSoldering,
+C4 ,1,0,1uF,Capacitors_SMD:C_0805_HandSoldering,
+C5 ,1,2nF,Capacitors_SMD:C_0805_HandSoldering,
+C6 ,1,100uF,Capacitors_THT:CP_Radial_D6.3mm_P2.50mm,
+C7 C8 C13 ,3,C,Capacitors_SMD:C_0805_HandSoldering,
+C9 C10 C11 C12 C14 C15 ,6,100n,Capacitors_SMD:C_0805_HandSoldering,
+C11 C12 C19 ,3,0,1U,Capacitors_SMD:C_0805_HandSoldering,
+C17 ,1,0,1u,Capacitors_SMD:C_0805_HandSoldering,
+C18 C20 ,2,22pf,Capacitors_SMD:C_0805_HandSoldering,
+C21 C22 C23 ,3,100nF,Capacitors_SMD:C_0805_HandSoldering,
+D1 ,1,LED1,LEDs:LED_D5.0mm-4,
+D2 ,1,LED2,LEDs:LED_D5.0mm-4,
+D3 ,1,LED3,LEDs:LED_D5.0mm-4,
+FTDI1 ,1,FTDI,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,
+ISP1 ,1,ISP-header,Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm,http://www.atmel.com/webdoc/avrispmkii/avrispmkii.section.zgf_vsd_lc.html#avrispmkii.isp.connector
+J1 ,1,Vin,Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm,
+J2 ,1,OLED,Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm_SMD_Pin1Left,
+J3 J4 J5 ,3,Batt1,Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm,
+JP1 ,1,Jumper,Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm,
+Q1 Q2 Q3 ,3,IRFFR220N,TO_SOT_Packages_SMD:TO-252-2,
+Q4 Q5 Q6 ,3,IRF7341,Housings_SOIC:SO-8_5.3x6.2mm_Pitch1.27mm,https://www.infineon.com/dgdl/irf7341pbf.pdf?fileId=5546d462533600a4015355f64f031b63
+R1 ,1,20K,Resistors_SMD:R_0805_HandSoldering,
+R2 ,1,102.6K,Resistors_SMD:R_0805_HandSoldering,
+R3 R4 R7 ,3,0,01R,Resistors_SMD:R_2512_HandSoldering,
+R5 R6 R8 ,3,10R,Resistors_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal,
+R9 ,1,10K,Resistors_SMD:R_0805_HandSoldering,
+R10 R11 R23 R24 R26 ,5,1K,Resistors_SMD:R_0805_HandSoldering,
+R12 R13 R14 R15 R16 R17 R18 R19 R20 ,9,R,Resistors_SMD:R_0805_HandSoldering,
+R21 R22 R25 ,3,100R,Resistors_SMD:R_0805_HandSoldering,
+TP1 TP2 TP3 ,3,TEST,Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm,
+U1 ,1,LM2937,TO_SOT_Packages_SMD:SOT-223-3_TabPin2,http://www.ti.com/lit/ds/symlink/lm2937.pdf
+U2 ,1,LT1054,Housings_DIP:DIP-8_W7.62mm_LongPads,http://www.ti.com/lit/ds/symlink/lt1054.pdf
+U3 U4 U7 ,3,INA219,TO_SOT_Packages_SMD:SOT-23-8_Handsoldering,http://www.ti.com/lit/ds/symlink/ina219.pdf
+U5 U6 U8 ,3,OP07,Housings_DIP:DIP-8_W7.62mm_Socket_LongPads,
+U9 ,1,ATMEGA328P-AU-Arduino,Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm,
+U10 ,1,MCP4728,Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm,
+U11 U12 U13 ,3,DW01-P,TO_SOT_Packages_SMD:SOT-23-6_Handsoldering,One Cell Lithium-ion/Polymer Battery Protection IC
+Y1 ,1,8MHZ,Crystals:Crystal_HC18-U_Vertical,
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 03/10/18 15:54:47
