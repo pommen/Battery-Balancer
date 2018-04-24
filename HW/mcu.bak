@@ -657,7 +657,7 @@ U 1 1 5A97BACB
 P 9000 1050
 F 0 "J2" H 9000 1250 50  0000 C CNN
 F 1 "OLED" H 9000 750 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm_SMD_Pin1Left" H 9000 1050 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 9000 1050 50  0001 C CNN
 F 3 "" H 9000 1050 50  0001 C CNN
 	1    9000 1050
 	1    0    0    -1  
